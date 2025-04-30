@@ -51,15 +51,6 @@ I'm a **DevOps, SRE, and Cloud/Platform Engineer** with a background in **techni
 
 ---
 
-### 🎯 Currently Exploring
-
-- 🔬 Advanced **OpenTelemetry** and tracing pipelines  
-- 🧠 Scalable observability with **Grafana Stack (Tempo, Loki, Prometheus)**  
-- 🔒 Cluster hardening using **kube-bench**, **Trivy**, and **OPA/Gatekeeper**  
-- 🧰 Internal Dev Platforms with **Backstage + GitOps**
-
----
-
 ### 🤝 Let's Connect!
 
 - 🌐 [LinkedIn](https://linkedin.com/in/tamiilore) 
